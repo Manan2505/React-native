@@ -13,10 +13,10 @@ function UseEffectComp() {
         console.log("unmount")
         clearInterval(Id);
     }
-  return (
-    <View>
-    
-    </View>
-  )
+  // return (
+  //   <View>
+  //   <Text>Use Effect</Text>
+  //   </View>
+  // )
 }
 export default UseEffectComp;
